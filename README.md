@@ -4,7 +4,7 @@ Compute Waiting Time and Turnaround Time of Every Job and Average Waiting Time a
 Show Ghant Chart
 
 ## Summary
-Project was created as part of Operating System class final project. Data Structures used are Dictionaries and List; Which are built-in Python. Choice of Python language was simple due to math computation and ease use of mutable objects.
+Project was created as part of Operating System's class final project. Data Structures used are Dictionaries and List; Which are built-in Python. Choice of Python language was simple due to math computation and ease use of mutable objects.
 
 ## Output
 ```OUTPUT
@@ -28,7 +28,7 @@ SHORTEST JOB FIRST
   P4       5        1       5         6
   P5      10        3       3         6
   P6      21       12       0        12
-Average Wait Time = 5.0    Average Turnaround Time = 10.333333333333334
+Average Wait Time = 5.0    Average Turnaround Time = 10.34
 
 0 -> P1 -> 10 -> P4 -> 11 -> P2 -> 13 -> P5 -> 16 -> P3 -> 20 -> P6 -> 33 
 
